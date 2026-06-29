@@ -1,0 +1,6 @@
+product_id,old_name,category,price,user_id,status,amount,base_price
+101,Laptop,Electronics,50000,1,Completed,50000,50000
+102,Phone,Electronics,25000,2,Pending,25000,25000
+103,Shoes,Fashion,3000,3,Completed,3000,3000
+104,TV,Electronics,60000,,Completed,60000,60000
+105,Tablet,Electronics,18000,5,Completed,18000,18000

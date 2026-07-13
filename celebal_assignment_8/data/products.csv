@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Chocolate Chip Energy Balls,Books,Fiction,3909.53
+2,Dark Chocolate Covered Raisins,Home,Accessories,2044.43
+3,Foam Building Blocks for Kids,Home,Fiction,1315.84
+4,Savory Mushroom Risotto,Home,Women,1843.79
+5,Coconut Curry Chicken,Books,Fiction,860.51
+6,Vintage Graphic Tee,Home,Furniture,3317.39
+7,Maple Glazed Carrots,Home,Accessories,4260.15
+8,Smart Light Bulbs,Clothing,Accessories,2464.81
+9,Ski Goggles,Books,Furniture,2642.87
+10,Nut Mix,Electronics,Fiction,2644.18
+11,Outdoor Inflatable Pool,Books,Men,3749.48
+12,Cranberry Almond Biscotti,Books,"",834.63
+13,Portable Leaf Blower,Books,Men,1456.5
+14,Biodegradable Trash Bags,Clothing,Men,375.7
+15,Electric Meat Grinder,Electronics,Education,2039.78
+16,Cotton Quilted Throw Blanket,Books,Education,2472.13
+17,Personalized Pet ID Tags,Home,Kitchen,2005.25
+18,Whipped Cream Cheese,Electronics,Men,3411.68
+19,Herbed Goat Cheese,Home,"",1700.49
+20,Garlic & Herb Goat Cheese,Electronics,Furniture,3181.3
+21,Toilet Paper (12 rolls),Clothing,Women,3298.71
+22,Leather Notebook Cover,Home,Furniture,1983.61
+23,Maple Pecan Pancake Mix,Electronics,Women,2828.04
+24,Cold Brew Coffee Concentrate,Electronics,Education,1656.62
+25,Athletic Compression Tights,Books,Kitchen,2837.55
+26,Garden Hoses with Expandable Features,Books,Kitchen,4579.1
+27,Wireless HDMI Transmitter,Books,"",1346.49
+28,Cinnamon Sugar Tortilla Chips,Books,"",2767.31
+29,Baking Powder,Clothing,Education,2162.64
+30,Photo Album,Clothing,Accessories,2635.92
+31,Roasted Garlic Pasta Sauce,Clothing,Kitchen,2546.9
+32,Whisk Set,Electronics,Education,1377.41
+33,Herb Seasoned Rice,Clothing,Laptops,3572.4
+34,Chiffon Blouse,Electronics,Women,2480.05
+35,Stainless Steel Mixing Bowls,Clothing,Women,4605.34
+36,Utility Cargo Pants,Home,Laptops,2513.49
+37,Eco-Friendly Beeswax Wraps,Clothing,Fiction,1781.06
+38,Kids' Learning Tablet,Electronics,Accessories,739.4
+39,Pizza Stone,Clothing,Laptops,1956.69
+40,Handmade Wooden Utensil Set,Clothing,Accessories,3126.23
+41,Tuscan Bean Soup,Books,Mobiles,1370.53
+42,Andouille Sausage,Home,Men,3654.43
+43,Infrared Thermometer Gun,Clothing,"",519.34
+44,Silicone Baking Cups,Clothing,Fiction,2088.9
+45,Cranberry Orange Oatmeal,Clothing,Education,3425.89
+46,Pizza Stone,Books,Fiction,4180.14
+47,Crispy Onion Rings,Books,Men,1692.0
+48,Graphic Sweatshirt,Electronics,Laptops,3387.91
+49,Electric Pressure Cooker,Clothing,Furniture,3925.74
+50,Organic Chia Seeds,Clothing,Accessories,1883.6
+51,Microwave Popcorn Maker,Electronics,Women,869.96
+52,Tattoo Kit,Home,Women,2978.45
+53,Chia Seeds,Electronics,Women,4195.07
+54,Energy Protein Bars,Books,Men,4574.67
+55,Corn Tortillas,Home,Women,3202.87
+56,Bamboo Toothbrush,Clothing,Women,3112.92
+57,Maple Almond Butter,Electronics,Men,1440.0
+58,Almond Quinoa Salad,Electronics,"",4240.11
+59,Cinnamon Apple Sauce,Clothing,"",1507.91
+60,Chic Jumpsuit,Clothing,Women,4691.77
+61,Elegant Lace Dress,Home,Education,657.77
+62,Gardening Fairy Figurines,Home,Accessories,3268.51
+63,Fruit and Nut Bars,Clothing,Laptops,3847.85
+64,Rain Jacket,Home,Men,3722.51
+65,Coconut Cream Pie Yogurt,Home,Education,4492.14
+66,Pet Hair Remover,Home,Men,839.18
+67,Wooden Children's Play Kitchen,Home,Furniture,4697.03
+68,Chipotle Black Bean Burger,Electronics,Fiction,4474.5
+69,Savory Oatmeal,Clothing,Women,4987.69
+70,Air Fryer Oven,Home,Women,3790.86
+71,Dark Chocolate Covered Raisins,Electronics,Men,1538.08
+72,Adjustable Stand for Tablets and Smartphones,Electronics,Women,1134.27
+73,Almond Butter,Electronics,Furniture,1181.42
+74,Bamboo Toothbrush Holder,Clothing,Accessories,4811.6
+75,Stick Vacuums Cleaner,Home,Kitchen,4176.01
+76,Air Fryer Oven,Home,Women,2536.04
+77,Casual Long Cardigan,Home,Men,4707.82
+78,Action Camera,Books,"",884.33
+79,Honey Mustard Dip,Home,Accessories,3548.4
+80,Teriyaki Beef Jerky,Home,Laptops,1042.51
+81,Spinach and Feta Wraps,Clothing,"",551.5
+82,Handheld Vacuum,Electronics,Women,4648.61
+83,Samsung Galaxy Smartwatch,Electronics,Furniture,1508.03
+84,Smart LED Desk Lamp,Books,Kitchen,759.99
+85,Memory Foam Pillow,Home,Furniture,2060.37
+86,Graphic Sweatshirt,Books,Laptops,2482.92
+87,Stainless Steel Travel Mug,Home,Laptops,2023.19
+88,Portable Jump Starter,Electronics,"",712.26
+89,Lemon Pepper Seasoning,Clothing,Accessories,3162.59
+90,Stainless Steel Grater,Clothing,Furniture,4835.65
+91,Compact Pop-Up Tent,Books,Accessories,3172.26
+92,Fitness Tracker Band,Electronics,Accessories,3054.48
+93,Cinnamon Roll Protein Bar,Clothing,Mobiles,1857.82
+94,Pet Hair Removal Roller,Home,Laptops,1755.53
+95,Sesame Seeds,Books,Fiction,3256.51
+96,LED Flashlight with Rechargeable Batteries,Clothing,Laptops,3499.68
+97,Pet Activity Tracker,Books,Kitchen,291.66
+98,Scent Diffuser Oil,Home,Accessories,1130.17
+99,LED Christmas Lights,Books,Kitchen,979.25
+100,Dark Chocolate Tart,Electronics,Accessories,2777.91
+101,Graphic Sweatshirt,Home,Mobiles,393.65
+102,Teriyaki Beef Strips,Electronics,Education,812.9
+103,Memory Foam Pillow,Electronics,Education,4417.22
+104,Camera Lens Cleaning Kit,Home,Mobiles,4929.91
+105,Mini Air Hockey Table,Electronics,Education,1268.13
+106,Smartphone Projector Kit,Books,Fiction,2148.07
+107,Dill Pickle Chips,Clothing,Women,470.68
+108,Mango Chili Salsa,Home,Women,3430.43
+109,Curried Lentil Salad,Clothing,Laptops,548.2
+110,Coffee Subscription Service,Home,Education,1362.25
+111,Cranberry Orange Oatmeal,Home,Fiction,4585.62
+112,Chia Seeds,Electronics,Laptops,3012.85
+113,Watering Can with Nozzle,Books,"",4955.73
+114,Roasted Garlic,Books,Kitchen,3561.63
+115,Over-The-Door Shoe Organizer,Electronics,Furniture,3366.24
+116,Belted Trench Coat,Books,Women,3533.15
+117,Spaghetti Squash,Books,Kitchen,897.62
+118,Vanilla Ice Cream,Books,Furniture,1065.87
+119,Children's Educational Workbook,Electronics,Furniture,2028.73
+120,Photo Album,Books,Education,557.41
+121,Mediterranean Couscous,Electronics,Mobiles,3130.91
+122,LED Table Lamp,Home,Women,3648.87
+123,Lemon Herb Quinoa,Clothing,Education,2688.55
+124,Pressure Cooker,Books,Education,4892.97
+125,Multicolored LED Strip Lights,Books,Mobiles,4166.98
+126,Almond Butter Crunch Bar,Electronics,Men,3843.04
+127,Cucumber Relish,Clothing,Education,2158.1
+128,Beef Tacos,Home,Accessories,765.5
+129,Maple Bacon Popcorn,Books,Kitchen,570.79
+130,Printed Maxi Skirt,Clothing,Furniture,4873.79
+131,Coconut Cream,Books,Men,4457.87
+132,Tennis Racket,Clothing,Accessories,227.93
+133,Sporty Leggings,Home,Fiction,2473.04
+134,Classic Cheesecake Mix,Clothing,Accessories,4374.58
+135,Training Soccer Ball,Home,Laptops,331.43
+136,Travel Luggage Scale,Books,Mobiles,507.07
+137,Pet Grooming Brush,Clothing,Mobiles,134.47
+138,Kids' STEM Robotics Kit,Home,Education,4279.22
+139,Smartphone Tripod,Books,Men,526.37
+140,Mini Electric Kettle,Books,Education,2883.64
+141,Almond Joy Bars,Books,Men,3444.09
+142,Personal Blender,Electronics,Women,2035.18
+143,Vegan Tacos,Books,Education,295.78
+144,Magnetic Screen Door,Electronics,Kitchen,4269.16
+145,Banana Peanut Butter Smoothie,Books,Education,2555.37
+146,Insulated Cooler,Home,Mobiles,3009.21
+147,Cheesy Cauliflower Bake,Electronics,Laptops,2707.56
+148,Fleece Lined Leggings,Books,Mobiles,3040.38
+149,Vegetable Broth,Clothing,Mobiles,853.71
+150,Tactical Backpack,Clothing,Furniture,2630.01
+151,Wild Rice Pilaf,Clothing,Kitchen,4626.31
+152,Rain Jacket,Electronics,Kitchen,1606.16
+153,Baking Soda,Clothing,Men,254.51
+154,Insulated Wine Tote,Home,Women,457.79
+155,Handcrafted Wooden Jewelry Box,Clothing,"",556.77
+156,Ceramic Bakeware Set,Home,"",737.22
+157,Margherita Pizza,Clothing,Laptops,788.06
+158,Kale Salad Kit,Books,"",306.27
+159,Wrap Front Midi Skirt,Electronics,Laptops,1934.77
+160,Ceramic Knife Set,Clothing,Women,2373.48
+161,Whole Grain Mustard,Clothing,Accessories,139.42
+162,Honey-Balsamic Vinaigrette,Books,Kitchen,322.16
+163,Rainbow Veggie Chips,Home,Fiction,4709.35
+164,Skincare Set,Home,Mobiles,3038.45
+165,Frozen Spinach,Home,Fiction,813.08
+166,Frozen Mixed Vegetables,Home,Education,4090.29
+167,Handmade Wooden Utensil Set,Electronics,Men,4126.41
+168,Rechargeable Battery Organizer,Clothing,Fiction,2302.59
+169,Non-Toxic Crayons for Kids,Electronics,Women,4259.64
+170,Caramelized Onion Dip,Books,"",1571.23
+171,Suction Cup Hooks,Books,"",2784.73
+172,Knitted Infinity Scarf,Electronics,Education,973.62
+173,Sriracha Chili Sauce,Clothing,Laptops,4248.12
+174,Kids' Trampoline,Books,Fiction,1705.78
+175,Electric Stool Heater,Books,Accessories,2194.62
+176,Apple Pie Filling,Books,Men,630.61
+177,Over-the-Door Shoe Organizer,Clothing,Women,2527.88
+178,Pet First Aid Kit,Electronics,Laptops,1832.38
+179,Garden Vegetable Chips,Books,Furniture,562.72
+180,Paprika,Books,Kitchen,100.23
+181,Toilet Paper (12 rolls),Home,"",4866.12
+182,Portable Bluetooth Speaker,Books,Men,2372.86
+183,Vegetable Chips,Books,Fiction,4684.69
+184,Organic Spinach,Clothing,Kitchen,725.6
+185,Outdoor Inflatable Pool,Electronics,Kitchen,3296.02
+186,Induction Cooktop,Books,Accessories,4408.54
+187,Travel Mug with Leak-Proof Lid,Clothing,Fiction,2963.32
+188,Comfy Slippers,Home,Fiction,696.8
+189,Organic Spinach,Clothing,Kitchen,175.25
+190,Self-Massaging Pillow,Electronics,Accessories,1097.13
+191,Fitness Activity Journal,Books,Education,1692.14
+192,Quinoa & Black Bean Salad,Home,Accessories,2594.66
+193,Classic Pumps,Electronics,Fiction,1856.12
+194,Cilantro Lime Rice,Home,Accessories,233.43
+195,Maple Bacon Popcorn,Books,Accessories,1523.3
+196,Travel Makeup Organizer,Home,Men,4690.29
+197,Sweet Corn Fritters,Clothing,Accessories,1157.94
+198,Microwave Popcorn Maker,Clothing,Accessories,874.27
+199,Teriyaki Chicken Bowl,Books,Mobiles,3772.4
+200,Robot Vacuum Cleaner,Clothing,Laptops,4786.79
+201,Cabbage,Electronics,Education,1914.77
+202,Honey,Books,Fiction,699.26
+203,Electric Bike,Home,Women,4289.46
+204,Ultraviolet Phone Sanitizer,Books,Men,4752.06
+205,Silicone Baking Mat Set,Electronics,Women,2881.64
+206,Smart Doorbell,Books,Men,1863.39
+207,Spicy Tuna Sushi Kit,Home,Kitchen,3620.41
+208,Bamboo Cotton Tank Top,Books,Laptops,4348.12
+209,Shatterproof Wine Glasses,Books,Kitchen,2242.04
+210,Fashionable Fanny Pack,Home,Men,418.12
+211,Mango Chili Salsa,Home,Mobiles,4388.34
+212,LED Table Lamp,Clothing,"",1253.25
+213,Luminous Night Light,Electronics,Mobiles,4057.08
+214,Organic Apples,Home,Men,1237.33
+215,Cajun Seasoning,Clothing,Education,4650.71
+216,Roasted Chickpeas,Home,Accessories,2869.2
+217,Wall Decals for Kids,Electronics,Men,246.73
+218,Hair Dryer,Books,Fiction,4155.53
+219,Bicycle Lock,Books,"",1532.56
+220,Spicy Thai Coconut Soup,Clothing,Women,3632.29
+221,Puzzle Game Set,Clothing,Laptops,4079.97
+222,Brown Rice,Electronics,Kitchen,4405.38
+223,Frozen Berry Medley,Books,Education,1873.86
+224,Cranberry Orange Juice,Home,"",3130.47
+225,Cotton Sweatpants,Home,Furniture,3083.06
+226,Wine Decanter,Home,Men,3330.76
+227,Pumpkin Spice Coffee,Home,Furniture,1633.77
+228,Eco-Friendly Stainless Steel Straws,Clothing,Education,1809.43
+229,Plant-Based Protein Bars,Home,Laptops,3053.87
+230,Whole Wheat Pasta,Home,Men,4246.86
+231,Corn Tortillas,Electronics,Mobiles,1063.58
+232,Balsamic Glazed Brussels Sprouts,Home,Accessories,1482.15
+233,Beef Chili,Books,Mobiles,3419.34
+234,Silicone Baking Mat,Electronics,Furniture,981.27
+235,Fishing Tackle Box,Books,Mobiles,4738.89
+236,Lightweight Travel Backpack,Clothing,Accessories,483.36
+237,BBQ Sauce,Clothing,Mobiles,3168.08
+238,Hand Crank Blender,Electronics,Women,3242.84
+239,Camping Tarp,Electronics,Furniture,450.67
+240,Crispy Rice Treats,Books,"",4563.07
+241,Smart Scale,Clothing,Fiction,4137.52
+242,Sliced Bread,Home,Women,3144.13
+243,Vanilla Pudding Mix,Clothing,Furniture,2889.64
+244,Baked Falafel,Electronics,Mobiles,2881.71
+245,Red Lentil Pasta,Books,Mobiles,3060.34
+246,Fishing Rod,Home,Education,2260.49
+247,Insulated Lunch Bag,Home,Kitchen,1424.06
+248,Vegetable Spring Rolls,Books,Laptops,4610.6
+249,Cranberry Almond Granola,Books,Fiction,4232.88
+250,Savory Snack Mix,Books,Women,738.59
+251,Buffalo Cauliflower Wings,Clothing,Women,3230.3
+252,Coconut Macaroons,Clothing,Kitchen,1038.24
+253,Sliced Cucumbers,Electronics,Furniture,3469.25
+254,Ribbed Knit Dress,Electronics,Women,681.56
+255,Cat Tree with Scratching Posts,Electronics,Laptops,3094.75
+256,Pet Hair Vacuum Attachment,Home,"",2832.26
+257,Chicken Broth,Clothing,"",2647.75
+258,Water Bottle with Built-in Fruit Infuser,Home,Fiction,3857.28
+259,Sweet Potato Chips,Books,Women,1733.01
+260,Outdoor Camping Hammock,Electronics,Men,3651.83
+261,Peanut Butter Chocolate Chip Bars,Clothing,Accessories,451.1
+262,Chocolate Syrup,Electronics,Mobiles,1551.01
+263,Stainless Steel Travel Mug,Clothing,Men,3522.63
+264,Maxi Wrap Dress,Books,Education,4168.58
+265,Fitness Resistance Bands Kit,Books,Furniture,1568.42
+266,Leather Biker Jacket,Electronics,Fiction,3883.12
+267,Kitchen Scale,Electronics,Laptops,2907.92
+268,Bluetooth Shower Speaker,Electronics,Kitchen,843.0
+269,Portable Solar Generator,Books,Men,785.31
+270,Mesh Laundry Bags Set,Electronics,Education,3687.47
+271,Freestanding Wine Rack,Books,Accessories,3889.97
+272,Spaghetti Squash,Books,Furniture,2544.71
+273,Thai Basil Fried Rice,Books,Accessories,670.5
+274,Mayonnaise,Home,Fiction,2918.24
+275,Gingerbread House Kit,Electronics,Education,3840.59
+276,Savory Oatmeal,Clothing,Women,2935.54
+277,Compact Folding Table,Home,Laptops,784.52
+278,Kids Tablet,Clothing,Furniture,1963.5
+279,Insulated Cooler,Books,Women,4707.43
+280,Personalized Pet ID Tags,Home,Kitchen,328.92
+281,Wireless Security Camera,Electronics,Men,2836.35
+282,Wireless Wi-Fi Extender,Books,Laptops,4087.8
+283,Training Soccer Ball,Clothing,Laptops,1342.46
+284,Vegetable Samosas,Clothing,Women,2772.8
+285,Winter Knit Beanie,Electronics,Fiction,4953.72
+286,Organic Black Rice,Electronics,Fiction,2875.83
+287,Running Shorts,Clothing,Women,3508.23
+288,Smart Home Hub,Books,Laptops,4166.29
+289,Set of Silicone Baking Molds,Home,Accessories,548.55
+290,Pork Chops,Electronics,Accessories,3446.57
+291,Lentil Soup (canned),Home,Education,4095.99
+292,Camping Chair,Clothing,Accessories,4501.12
+293,Buffalo Cauliflower Bites,Clothing,Accessories,3952.13
+294,Antique Style Clock,Electronics,Kitchen,4449.69
+295,Sports Bottle,Clothing,Women,690.05
+296,Black Olives,Clothing,Women,1492.78
+297,Balsamic Vinaigrette,Home,Women,3917.77
+298,Sweet Chili Sauce,Books,Men,2996.69
+299,Elegant Lace Dress,Books,Fiction,773.97
+300,Black Bean Salsa,Home,Accessories,4355.12
+301,White Rice,Home,Fiction,2680.69
+302,Coconut Curry Lentils,Books,Men,4439.42
+303,Collapsible Pet Dog Bowl,Electronics,Men,547.89
+304,Frozen Mixed Berries,Clothing,Accessories,4010.32
+305,Vegetable Fried Rice,Electronics,Kitchen,2708.4
+306,Stylish Wireless Earbuds,Electronics,Education,3108.24
+307,Handcrafted Wooden Coasters,Books,Men,3977.48
+308,Potting Soil,Home,Accessories,2438.61
+309,Tailored Dress Pants,Home,Mobiles,245.14
+310,Safety Goggles,Electronics,Kitchen,284.79
+311,Honey Butter Popcorn,Home,Women,1829.84
+312,Carrot Ginger Soup,Electronics,Education,2494.54
+313,Puffer Winter Coat,Electronics,Men,3287.41
+314,Arcade Game Machine,Clothing,Kitchen,169.25
+315,Sweet Chili Dipping Sauce,Clothing,Women,4044.87
+316,Adjustable Bar Stools,Books,Mobiles,4621.78
+317,Artisan Bread Loaf,Clothing,Kitchen,311.26
+318,Roasted Garlic Aioli,Books,Women,3296.21
+319,Garden Kneeler and Seat,Home,Mobiles,2366.8
+320,Computer Monitor Stand,Electronics,Men,3671.84
+321,Adjustable Standing Desk,Home,"",3018.4
+322,Portable Hammock,Electronics,Furniture,1335.73
+323,Portable Air Pump,Home,"",1631.05
+324,Cabbage Slaw Mix,Clothing,Kitchen,4788.99
+325,Maple Oatmeal,Clothing,Accessories,3678.5
+326,Electric Griddle with Removable Plates,Clothing,Kitchen,4606.23
+327,Asian Salad Mix,Clothing,"",1115.74
+328,Beef Stew Meat,Books,"",1137.16
+329,Travel Shoe Bags Set,Books,Education,2593.25
+330,Vegetable Potstickers,Home,Fiction,446.16
+331,Spicy Snack Mix,Home,Education,2416.56
+332,Flavored Rice Cakes,Home,Mobiles,1022.19
+333,Classic White T-Shirt,Home,Furniture,1454.4
+334,Green Tea Matcha Powder,Clothing,Accessories,2074.92
+335,Pet Hair Vacuum Attachment,Home,Men,870.28
+336,Frozen Berry Medley,Electronics,Accessories,3608.11
+337,Lentil Soup,Clothing,Mobiles,1136.5
+338,Striped Long Sleeve Shirt,Home,Laptops,419.9
+339,Sculpting Kit,Clothing,Fiction,4011.59
+340,Sriracha Honey Glaze,Clothing,Mobiles,498.0
+341,Whole Wheat Pita Bread,Books,Women,1332.43
+342,Cold Brew Coffee Maker,Clothing,Furniture,2198.03
+343,Herb Seasoned Rice,Books,"",4608.92
+344,Wall-Mounted Organizer,Home,Education,744.0
+345,Mango Chia Pudding,Clothing,Women,2873.85
+346,Two-Tier Fruit Basket,Books,"",3209.11
+347,Cat Tree with Scratching Posts,Clothing,Furniture,2150.48
+348,Falafel Mix,Electronics,Kitchen,180.94
+349,USB Desk Fan,Clothing,"",1814.56
+350,Car Escape Tool,Clothing,Education,2395.08
+351,Pet Camera with Treat Dispenser,Clothing,Men,3486.78
+352,Whole Roasted Chicken,Home,Laptops,1038.55
+353,Hot Salsa,Clothing,Kitchen,2204.52
+354,Travel Luggage Scale,Electronics,Mobiles,3386.34
+355,Chicken Broth,Books,Furniture,2235.72
+356,Car Sunshade,Clothing,Fiction,2115.57
+357,Peach Salsa,Clothing,Furniture,406.48
+358,Chipotle Lime Salsa,Electronics,Accessories,3668.31
+359,Avocado Oil Mayo,Clothing,Laptops,3226.53
+360,Chipotle Sauce,Books,Furniture,3627.31
+361,Ceramic Planter Set,Clothing,"",2467.18
+362,Fitbit Activity Tracker,Electronics,"",2053.5
+363,Honey Garlic Sauce,Home,Women,2699.96
+364,Premium Flashlight,Electronics,Women,1304.84
+365,Fruit Medley Juice,Home,Laptops,2971.97
+366,Cranberry Lime Sparkling Water,Books,Education,4228.59
+367,Collapsible Storage Crates,Electronics,Laptops,524.15
+368,Kale and Quinoa Salad,Electronics,Men,3155.15
+369,Miso Soup Mix,Home,Mobiles,2481.98
+370,Mediterranean Couscous Salad,Books,Men,912.25
+371,Trainers with Mesh Inserts,Home,Furniture,3175.83
+372,Self-Cleaning Water Bottle,Clothing,Men,2972.78
+373,Black Olives,Electronics,Furniture,474.0
+374,Electric Toothbrush Holder,Home,Accessories,1061.97
+375,Computer Monitor Stand,Clothing,Laptops,2444.39
+376,Savory Rice Cakes,Books,Fiction,4486.4
+377,Sports Water Bottle with Infuser,Electronics,Fiction,4220.42
+378,Lemon Pepper Seasoning,Home,"",3354.16
+379,Lightweight Travel Backpack,Books,Men,4585.33
+380,Window Blinds,Clothing,Men,2383.68
+381,Backpack,Electronics,Kitchen,1576.33
+382,Essential Oils Diffuser Necklace,Electronics,Accessories,2520.17
+383,Sliced Bell Peppers,Home,Women,3077.3
+384,Spicy Roasted Nuts,Electronics,Kitchen,3741.02
+385,Chocolate Mint Protein Shake,Home,Fiction,2593.44
+386,Organic Baby Carrots,Books,Fiction,438.7
+387,Electric Opener for Jars and Bottles,Electronics,Furniture,2888.69
+388,Barbecue Chicken Pizza,Clothing,Women,4900.36
+389,Chic Ankle Strap Heels,Books,Laptops,1143.85
+390,Beard Grooming Kit,Home,Furniture,1641.1
+391,Radish Chips,Electronics,Women,4642.03
+392,Cotton Pajama Set,Clothing,Men,933.57
+393,Herbed Goat Cheese,Electronics,Education,3770.83
+394,Cherry Almond Protein Bar,Books,Accessories,2502.61
+395,Peanut Butter Filled Pretzels,Home,Education,478.15
+396,Dark Chocolate Raisins,Books,Mobiles,3914.5
+397,Digital Wireless Camera,Books,Laptops,3248.47
+398,Maple Bacon Popcorn,Home,Mobiles,1430.03
+399,Electric Pressure Washer,Clothing,Mobiles,2417.12
+400,Portable Speakers,Clothing,Kitchen,4696.09
+401,Basketball,Electronics,Men,1936.53
+402,Organic Italian Seasoning,Books,"",358.72
+403,Cinnamon Sugar Tortilla Chips,Books,Furniture,763.02
+404,Personal Blender,Clothing,Laptops,2402.71
+405,Caramelized Onion Dip Mix,Clothing,Women,4446.13
+406,Suede Ankle Booties,Electronics,Mobiles,882.05
+407,Smartphone Gimbal Stabilizer,Books,Kitchen,448.36
+408,Tomato Basil Soup,Books,Education,1092.58
+409,Herbal Tea Set,Home,Accessories,2824.47
+410,Automatic Pet Feeder,Electronics,Women,2546.67
+411,Basil Lemonade,Electronics,Laptops,114.77
+412,Jump Rope with Counter,Home,Laptops,3623.46
+413,Caramelized Onion Dip,Clothing,"",4391.47
+414,LED Desk Lamp,Clothing,Mobiles,1999.64
+415,Lemon Garlic Marinade,Clothing,Kitchen,4178.69
+416,USB-C Hub,Home,Education,4038.99
+417,Teriyaki Chicken Stir-Fry,Books,Kitchen,2111.14
+418,Kale Salad Kit,Home,Kitchen,2830.06
+419,Mango Chunks,Clothing,"",2633.73
+420,Electric Pressure Washer,Electronics,Laptops,1806.37
+421,Chickpea Snack Mix,Clothing,Fiction,1669.42
+422,Spaghetti and Meatball Dinner Kit,Books,Education,3139.84
+423,Snap-On Tupperware Set,Clothing,Education,3458.48
+424,Brown Rice,Clothing,Kitchen,1576.04
+425,Emergency Preparedness Kit,Books,Accessories,2489.14
+426,Greek Yogurt,Electronics,Laptops,395.19
+427,Spinach and Cheese Quiche,Home,Education,3794.96
+428,Avocados,Books,Accessories,1348.68
+429,Hummus,Electronics,Men,1580.73
+430,Sesame Oil,Clothing,Men,4862.37
+431,Jasmine Rice,Electronics,Mobiles,147.69
+432,Cooking Utensil Set,Clothing,Furniture,2582.18
+433,Organic Black Rice,Home,Education,4583.81
+434,LED Strip Light Kit,Clothing,"",4459.18
+435,Maple Cinnamon Granola Bars,Home,"",1766.51
+436,Self-Watering Planter,Electronics,Women,4196.94
+437,Graphic Sweatshirt,Clothing,Men,4991.55
+438,Electric Can Opener,Books,Men,1170.82
+439,Sweet Potato Noodles,Electronics,Mobiles,4603.7
+440,Personal Blender with Travel Cup,Home,Men,1571.44
+441,Educational STEM Kit,Electronics,Women,3023.2
+442,Butternut Squash Ravioli,Home,Fiction,3814.16
+443,LED Under Cabinet Lighting,Clothing,Education,907.71
+444,Beef Tacos,Clothing,Education,2940.08
+445,Compost Bin,Electronics,Accessories,2098.0
+446,Honey mustard chicken tenders,Books,"",2309.63
+447,Smashed Avocado with Lime,Electronics,Furniture,465.91
+448,Garden Tool Set with Carrying Bag,Home,Education,3107.43
+449,Car Phone Mount,Books,Mobiles,2978.76
+450,Durable Hiking Boots,Books,"",2609.3
+451,Maple Bacon Potato Chips,Clothing,Mobiles,2418.95
+452,Fleece Lined Leggings,Clothing,Women,4727.63
+453,Smart Doorbell,Clothing,Women,4721.26
+454,Coffee Subscription Service,Electronics,Accessories,2825.63
+455,Outdoor Portable Fire Pit,Books,Women,996.22
+456,Pumpkin Spice Muffins,Books,Mobiles,1310.79
+457,Smart WiFi Plug,Home,Furniture,2018.16
+458,Almond Butter Crunch Bar,Electronics,Men,4447.0
+459,Mushroom Soup (canned),Home,Men,586.5
+460,Pretzel Bites,Books,Women,232.33
+461,Denim Jacket,Home,Fiction,215.86
+462,Inflatable Pool Float,Books,Fiction,3878.37
+463,Almond Joy Protein Bars,Clothing,Mobiles,4307.94
+464,Adjustable Height Standing Desk Converter,Electronics,Laptops,589.35
+465,Coffee Maker,Electronics,Fiction,103.5
+466,Set of Silicone Cooking Utensils,Clothing,Kitchen,1294.26
+467,Maple Bacon Potato Chips,Clothing,Fiction,522.69
+468,Chickpeas,Electronics,Accessories,2138.94
+469,Buffalo Sauce,Electronics,Women,414.67
+470,Vegetable Spiralizer,Clothing,Mobiles,439.78
+471,Lentils,Books,Mobiles,1416.03
+472,LED Strip Lights with Remote Control,Home,Fiction,1212.74
+473,Wireless Game Controller,Electronics,Education,4918.69
+474,Mini Waffle Maker,Books,Education,3340.7
+475,Organic Almond Flour,Clothing,Accessories,661.11
+476,Maple Almond Yogurt,Home,Kitchen,1664.71
+477,Tomato Basil Pasta Sauce,Electronics,Women,2310.59
+478,Artisan Bread Loaf,Clothing,Furniture,4111.7
+479,High-Pressure Handheld Shower Head,Electronics,Men,139.84
+480,Digital Voice Recorder,Clothing,Accessories,3134.89
+481,Mini Air Hockey Table,Home,Fiction,114.02
+482,Rice Noodles,Home,Mobiles,2280.88
+483,Wall Art,Books,"",2956.0
+484,Smartphone Photography Tripod,Clothing,Laptops,3363.87
+485,Self-Inflating Camping Mattress,Home,Men,3439.2
+486,Pressure Cooker,Clothing,Laptops,759.98
+487,Savory Italian Herbs,Home,Furniture,2098.62
+488,Chunky Knit Sweater,Books,Mobiles,959.73
+489,Vegetable and Cheese Quesadillas,Home,Laptops,1669.62
+490,Ergonomic Mouse Pad with Wrist Support,Clothing,Kitchen,1301.64
+491,Electric Hot Water Dispenser,Clothing,Mobiles,261.76
+492,Sliced Provolone Cheese,Electronics,Education,4109.04
+493,Smoky BBQ Jackfruit,Clothing,Furniture,4806.23
+494,Cat Tree,Electronics,Fiction,1242.62
+495,Sour Cream,Home,"",2276.18
+496,Honey Mustard Pretzel Bites,Electronics,Men,628.38
+497,Silicone Baking Mat,Home,Furniture,1002.21
+498,Bicycle Lock,Clothing,Laptops,1539.63
+499,Caramelized Onion Dip Mix,Books,Education,1924.29
+500,Reusable Silicone Food Storage Bags,Home,Laptops,3672.62
